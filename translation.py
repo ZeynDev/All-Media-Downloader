@@ -19,7 +19,7 @@ URL | filename | username | password"""
     
    ☞My Name  : All Media Downloader
 
-   ☞Updates  : @ansakubotchannel    
+   ☞Updates  : Latest    
 
    ☞Language : Python3
 
